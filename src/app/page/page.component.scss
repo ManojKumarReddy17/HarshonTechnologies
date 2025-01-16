@@ -1,0 +1,30 @@
+.content-box { padding: 20px; margin: 20px 0; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); background-color: #f5f5f5; transition: box-shadow 0.3s ease, transform 0.3s ease;}
+.content-box:hover { box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); transform: scale(1.05);}
+//#fff
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+
+  /* Paragraph Styling */
+  .s-20 {
+    font-size: 20px;  /* Size as per the inline style */
+    line-height: 1.6; /* Makes the text more readable */
+    color: #444;      /* Slightly darker color for text */
+    max-width: 100%;  /* Maximum width for better text alignment */
+    margin: 20px auto; /* Adds space around the paragraph */
+    padding: 20px;
+    background-color: #fff; /* White background to make it stand out */
+    border-radius: 8px; /* Rounded corners for a modern look */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    text-align: justify;  /* Justified text alignment for a clean look */
+  }
+  

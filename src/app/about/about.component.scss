@@ -1,0 +1,31 @@
+
+.full-width-paragraph {
+  
+    font-size: 20px;  /* Size as per the inline style */
+    line-height: 1.6; /* Makes the text more readable */
+    color: #444;      /* Slightly darker color for text */
+    max-width: 100%;  /* Maximum width for better text alignment */
+    margin: 20px auto; /* Adds space around the paragraph */
+    padding: 20px;
+    background-color: #fff; /* White background to make it stand out */
+    border-radius: 8px; /* Rounded corners for a modern look */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    text-align: justify; 
+ /* Ensures padding is included in the width calculation */
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+
+  /* Paragraph Styling */
+ /* your-component.component.css */
+
